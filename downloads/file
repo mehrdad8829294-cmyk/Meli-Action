@@ -453,7 +453,7 @@
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag("js", new Date());
-            gtag("config", "UA-829541-1", {"dimension1":"unregistered","dimension7":"legacy","dimension3":"archive","dimension4":"59","dimension5":"apk","dimension8":"\/20\/50\/100\/"});
+            gtag("config", "UA-829541-1", {"dimension1":"unregistered","dimension7":"legacy","dimension3":"archive","dimension4":"59","dimension5":"apk","dimension8":"\/100\/"});
         } catch(e) {}
     </script>
     
@@ -651,7 +651,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         >
             <input type="hidden"
                    name="security"
-                   value="1778419261.17f5ab93033aee4aabad0e3f945c1331a6f103da542e29786a30c090fa4a3e8c"
+                   value="1778425536.c290a07dbfdd7f1d6b9ceb943f1afecd1e475fb54fb9d4836c8c65e73344820a"
             >
             
             <div class="download_link" id="download_link">
@@ -660,13 +660,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
             <a class="input popsok"
            aria-label="Download file"
-           href="https://download2435.mediafire.com/qe1izvo0qbbgM6TdVtHJEtdnPB3xvvZv_HN391BoFX4E0sFqJZM5GgAK8ZQXFTo_DEliDHMAnYTKotUbgzwiQL_dPiFb_2OkDV09xdcurGHKSBayNhJydYPvy-aA1EpUdt_EvhUXYQclf_2F5IXPkQr4bGa9KWX6KVVO-_PD89pUbw/eky3f957zan6xg9/Insta+v14.70.apk"           id="downloadButton"
+           href="https://download2435.mediafire.com/aaclhqqdozdgCQM4Lwt_OTbpMPYIQWgK0bgEZRgG_8rzYft12seey2QkfZfq1jqT3QUII5rHYN_nSOSF8MhsZgJr_9wXKpOnjE_7C4whqR_AJIuEBK6l6AjUCQIjnW16NsN1bq4YDhqi7juNKeaDRlWP-6LMV5k7W9dAJ_iElw/eky3f957zan6xg9/Insta+v14.70.apk"           id="downloadButton"
            rel="nofollow">
                 Download (139.47MB)
         </a>
 
                 <a class="starting" href="#"><span>Your download is starting...</span></a>
-    <a class="retry" href="https://www.mediafire.com/download_repair.php?qkey=eky3f957zan6xg9&amp;dkey=qe1izvo0qbb&amp;template=59&amp;origin=click_button">
+    <a class="retry" href="https://www.mediafire.com/download_repair.php?qkey=eky3f957zan6xg9&amp;dkey=aaclhqqdozd&amp;template=59&amp;origin=click_button">
         <span class="notranslate">Download Started. <em>Repair your download</em></span>
     </a>
     <script type="text/javascript">
@@ -720,7 +720,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                  e.preventDefault();
                  // Set deferred progress state
                  dl.className = 'download_link deferred-progress';
-                 handleDeferredDownload("https://www.mediafire.com/download_repair.php?qkey=eky3f957zan6xg9&dkey=qe1izvo0qbb&template=59&origin=click_button", "https://www.mediafire.com/download_repair.php?qkey=eky3f957zan6xg9&dkey=qe1izvo0qbb&template=59&origin=server_error");
+                 handleDeferredDownload("https://www.mediafire.com/download_repair.php?qkey=eky3f957zan6xg9&dkey=aaclhqqdozd&template=59&origin=click_button", "https://www.mediafire.com/download_repair.php?qkey=eky3f957zan6xg9&dkey=aaclhqqdozd&template=59&origin=server_error");
              };
          }
 
@@ -1338,7 +1338,7 @@ var isInRect = function(selector, clickEvent) { if (selector != null && clickEve
                             var iAdCount = parseInt(getCookie('ad_count')) || 0;
                             if (iAdCount < 3) {
                                 iAdCount++;
-                                document.cookie = "ad_count=" + iAdCount + ";expires=" + (new Date(1778420161000)).toGMTString() + ";path=/";
+                                document.cookie = "ad_count=" + iAdCount + ";expires=" + (new Date(1778426436000)).toGMTString() + ";path=/";
                             }
                         });
                     });
@@ -1635,7 +1635,7 @@ var isInRect = function(selector, clickEvent) { if (selector != null && clickEve
   var optFileURL = "https://www.mediafire.com/file/eky3f957zan6xg9/Insta_v14.70.apk/file";
   var optLoggedIn = "false" === "true";
   var optReportTurboDL = "false" === "true";
-  var optSecurityToken = "1778419261.17f5ab93033aee4aabad0e3f945c1331a6f103da542e29786a30c090fa4a3e8c";
+  var optSecurityToken = "1778425536.c290a07dbfdd7f1d6b9ceb943f1afecd1e475fb54fb9d4836c8c65e73344820a";
   var optJsDirectLink = "false" === "true";
   var optTurboDownload = "false" === "true";
   var templateId = "59";
@@ -1987,5 +1987,5 @@ var isInRect = function(selector, clickEvent) { if (selector != null && clickEve
         <script type="text/javascript">
         window.startLazyLoad && window.startLazyLoad();  // No lazy ad positioning, fine to start lazy loader.
     </script>
-    <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f993ea29eab8dfa',t:'MTc3ODQxOTI2MQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+    <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f99d7d3192058ba',t:'MTc3ODQyNTUzNg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
